@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(43, 40, 40);
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    line-height: 1.6;
+    
+}
+.navegacion a:hover {
+    color: #b8b8b8;
+}
+
+li {
+    color: rgb(43, 40, 40);
+}
+
+
+.color1 {
+    background-color: lightblue;
+    
+}
+
+.color2 {
+    background-color: yellow;
+    
+}
+
+.color3 {
+    background-color: orange;
+    
+}
+
+.color4 {
+    background-color: red;
+    
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
